@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d6cb59d.css",
+    "main.js": "/static/js/main.cc93d024.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/sideone1.jpg": "/static/media/sideone1.12be6ff776501e6d64a2.jpg",
+    "static/media/special-delivery.jpg": "/static/media/special-delivery.584717a002feb51a2a29.jpg",
+    "static/media/science.png": "/static/media/science.a7e8807973c786ebcdbe.png",
+    "static/media/flowers.jpg": "/static/media/flowers.5ffd688fa12a030d84ab.jpg",
+    "static/media/Cabin-Regular.ttf": "/static/media/Cabin-Regular.2cfad1d43f55411abe0d.ttf",
+    "static/media/NeutralFace-Bold.otf": "/static/media/NeutralFace-Bold.c2edad6b20fe11b321d5.otf",
+    "static/media/NeutralFace.otf": "/static/media/NeutralFace.2872f4f67101cf3b3663.otf",
+    "static/media/cocina.gif": "/static/media/cocina.954af371b70e6e1148a4.gif",
+    "static/media/nemantaj-resume.pdf": "/static/media/nemantaj-resume.9818e314c03f5c13660c.pdf",
+    "index.html": "/index.html",
+    "main.5d6cb59d.css.map": "/static/css/main.5d6cb59d.css.map",
+    "main.cc93d024.js.map": "/static/js/main.cc93d024.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d6cb59d.css",
+    "static/js/main.cc93d024.js"
+  ]
+}
